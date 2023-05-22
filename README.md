@@ -24,7 +24,7 @@
   ## Walkthrough Video
   Watch this application in action by clicking on the following link:
 
-  PUT URL TO WALKTHROUGH VIDEO HERE
+  https://drive.google.com/file/d/10wfW214Jez2CkeZEkXIYCBTaiBKkzuqe/view
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license badge at the top.
